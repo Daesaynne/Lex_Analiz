@@ -1,0 +1,16 @@
+procedure Example;
+begin
+var a, b : integer;
+a := 10;
+b := 20;
+doom = 5;
+for i := 1 to 10 do
+begin
+a := a * 3;
+a := a + i;
+end;
+var g1 : integer;
+end
+varr
+var1
+@ # $
